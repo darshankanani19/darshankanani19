@@ -64,8 +64,7 @@ A PHP-based web application for managing tiffin services.
   1. Clone the repository.  
   2. Import the `tiffin_service.sql` file into your MySQL database.  
   3. Update `db.php` with your database credentials.  
-  4. Run the app in XAMPP/WAMP and open `http://localhost/tiffin-service-web`.  
-- **[View Repository](#)** *(Add GitHub link after upload)*  
+  4. Run the app in XAMPP/WAMP and open `http://localhost/tiffin-service-web`.   
 
 ---
 

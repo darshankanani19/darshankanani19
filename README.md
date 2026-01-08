@@ -1,91 +1,183 @@
-# 👋 Hi, I'm Darshan Kanani
+# 👋 Hi, I'm **Darshan Kanani**
 
-🚀 **Aspiring Full-Stack Developer & Flutter Enthusiast**  
-Passionate about creating user-friendly web and mobile applications. Skilled in **PHP, React, Flutter**, and frontend technologies like **HTML, CSS, JavaScript**. Always curious to explore new technologies and improve my problem-solving skills.
+🚀 **Full-Stack Developer | Flutter Developer | Problem Solver**
+
+I’m a passionate developer from the **IT department**, focused on building **scalable web and mobile applications** using modern technologies.
+I enjoy working deeply with **Dart & Flutter**, backend systems, databases, and writing **clean, maintainable code**.
+
+Currently sharpening my **problem-solving skills**, **backend architecture**, and **real-world project design**.
 
 ---
 
 ## 💻 Tech Stack
 
-### **Frontend**
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js
-- Flutter (Dart)
+### 🖥️ Frontend
 
-### **Backend**
-- PHP
+* HTML5, CSS3, JavaScript (ES6+)
+* React.js
+* Flutter (Dart)
+* Tailwind CSS / Bootstrap
 
-### **Database**
-- MySQL
-- Firebase Firestore
+### ⚙️ Backend
 
-### **Other Tools**
-- Firebase Authentication
-- Git & GitHub
-- REST APIs
+* Node.js & Express.js
+* PHP
+* Firebase (Auth + Firestore)
+
+### 🗄️ Database
+
+* MongoDB
+* MySQL
+* Firebase Firestore
+
+### 🧰 Tools & Technologies
+
+* Git & GitHub
+* REST APIs
+* Firebase Authentication
+* SharedPreferences (Flutter)
+* VS Code
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 **Library Management System**
-A web app for college libraries to streamline book issuing and pre-booking.
-- **Features**: QR code scanning, real-time availability, pre-booking
-- **Tech Stack**:  
-  - Frontend: HTML, CSS, JavaScript  
-  - Backend: Node.js, Express.js  
-  - Database: MongoDB  
-  - Authentication: JWT  
+### 🔹 **Flutter Expense / Food Bill Manager App**
+
+A Flutter application to manage **shared daily food or expense bills** between friends.
+
+**Key Features**
+
+* Folder-based expense grouping
+* Member-specific entries with color tags
+* Real-time total calculation
+* Date & time tracking
+* Deletion history
+* Local data persistence using SharedPreferences
+
+**Tech Stack**
+
+* Flutter (Dart)
+* SharedPreferences
 
 ---
 
 ### 🔹 **Tiffin Service Application (Flutter)**
-A Flutter-based app connecting users with local tiffin services.
-- **Features**: Meal subscription, daily tracking, responsive UI
-- **Tech Stack**:  
-  - Frontend: Flutter  
-  - Backend: Firebase  
-  - Database: Firestore  
-  - Authentication: Firebase Auth  
+
+A mobile application connecting users with local tiffin service providers.
+
+**Key Features**
+
+* Weekly & monthly meal subscriptions
+* Daily meal tracking
+* Clean and responsive UI
+* Firebase authentication
+
+**Tech Stack**
+
+* Flutter
+* Firebase Authentication
+* Firebase Firestore
 
 ---
 
-### 🔹 **Tiffin Service Web Application (PHP)**
-A PHP-based web application for managing tiffin services.
-- **Features**:  
-  ✔ User Registration & Login  
-  ✔ Meal Plan Subscription (Weekly/Monthly)  
-  ✔ Order Management   
-- **Tech Stack**:  
-  - Frontend: HTML, CSS, Bootstrap, JavaScript  
-  - Backend: PHP  
-  - Database: MySQL  
-- **Setup Instructions**:  
-  1. Clone the repository.  
-  2. Import the `tiffin_service.sql` file into your MySQL database.  
-  3. Update `db.php` with your database credentials.  
-  4. Run the app in XAMPP/WAMP and open `http://localhost/tiffin-service-web`.   
+
+### 🔹 **Library Management System**
+
+A web application designed for college libraries to streamline book handling.
+
+**Key Features**
+
+* Book issuing & returning
+* QR code scanning
+* Real-time availability check
+* Pre-booking system
+
+**Tech Stack**
+
+* Frontend: HTML, CSS, JavaScript
+* Backend: Node.js, Express.js
+* Database: MongoDB
+* Authentication: JWT
 
 ---
 
-## 🛠 Core Skills
-- **Hard Skills**: HTML, CSS, JavaScript, PHP, React, Flutter, Firebase, Dart, MySQL  
-- **Soft Skills**: Problem Solving, Teamwork, Time Management  
+### 🔹 **Online Coding Test Platform**
+
+A full-stack platform for conducting **secure coding tests**.
+
+**Key Features**
+
+* Role-based access (Admin / Student)
+* Multi-language code execution (Judge0 API)
+* Tab-switch detection
+* No copy-paste enforcement
+* Auto-submission on focus loss
+
+**Tech Stack**
+
+* React
+* Node.js & Express.js
+* Judge0 API
+
+---
+
+### 🔹 **Government Certificate Management System (Hackathon Project)**
+
+A system to streamline **birth & death certificate issuance** for the Collector Office.
+
+**Key Highlights**
+
+* Decentralized verification
+* Online hearings
+* Reduced workload for Taluka officers
+* Transparent workflow
+
+**Tech Stack**
+
+* MERN Stack (MongoDB, Express, React, Node.js)
+
+---
+
+## 🧠 Core Skills
+
+### 🔧 Hard Skills
+
+* Dart & Flutter (Deep understanding)
+* JavaScript, PHP
+* React, Node.js
+* Firebase & MongoDB
+* MySQL & Database Design
+* REST APIs
+
+### 🤝 Soft Skills
+
+* Strong problem-solving mindset
+* Logical thinking
+* Team collaboration
+* Time management
+* Continuous learning attitude
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced React.js
-- Laravel Framework
-- Cloud Firestore Best Practices
+
+* Advanced Dart (logic building & edge cases)
+* Flutter architecture (BLoC, clean architecture)
+* Backend system design
+* Laravel (PHP framework)
+* Database optimization & best practices
 
 ---
 
 ## 📫 Contact Me
-- **Email**: [darshankj129@gmail.com](mailto:darshankj129@gmail.com)  
-- **GitHub**: [github.com/darshankanani19](https://github.com/darshankanani19)  
-- **LinkedIn**: [kanani-darshan-082692294](https://www.linkedin.com/in/kanani-darshan-082692294/)  
+
+* 📧 **Email**: [darshankj129@gmail.com](mailto:darshankj129@gmail.com)
+* 🐙 **GitHub**: [github.com/darshankanani19](https://github.com/darshankanani19)
+* 💼 **LinkedIn**: [kanani-darshan-082692294](https://www.linkedin.com/in/kanani-darshan-082692294/)
 
 ---
 
-⭐ **Feel free to check out my repositories and connect with me!**
+⭐ **If you like my work, feel free to star my repositories and connect with me!**
+
+---
